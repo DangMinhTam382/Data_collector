@@ -1,0 +1,10 @@
+F:\Visual Studio\Com_test\Com_test\bin\Debug\Com_test.exe.config
+F:\Visual Studio\Com_test\Com_test\bin\Debug\Com_test.exe
+F:\Visual Studio\Com_test\Com_test\bin\Debug\Com_test.pdb
+F:\Visual Studio\Com_test\Com_test\obj\Debug\Com_test.csproj.AssemblyReference.cache
+F:\Visual Studio\Com_test\Com_test\obj\Debug\Com_test.Form1.resources
+F:\Visual Studio\Com_test\Com_test\obj\Debug\Com_test.Properties.Resources.resources
+F:\Visual Studio\Com_test\Com_test\obj\Debug\Com_test.csproj.GenerateResource.cache
+F:\Visual Studio\Com_test\Com_test\obj\Debug\Com_test.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Com_test\Com_test\obj\Debug\Com_test.exe
+F:\Visual Studio\Com_test\Com_test\obj\Debug\Com_test.pdb
